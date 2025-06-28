@@ -20,6 +20,8 @@ This is a 2D side-scrolling game made in Unity for the Final Game Prototype assi
 - Git + GitHub
 
 ##Project Structure:
+
+```
 Assets/
 ├── Audio/
 ├── Prefabs/
@@ -36,7 +38,7 @@ Assets/
 │   ├── Trash/
 │   └── Obstacles/
 
-
+```
 ## Screenshot
 
 ![image](https://github.com/user-attachments/assets/a6141d28-42b8-4067-a7d1-8d4c2afa0a7b)
